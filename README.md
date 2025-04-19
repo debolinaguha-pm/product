@@ -8,7 +8,7 @@ Based in Delhi, India | Passionate about AI and Healthcare | Bridging Research, 
 
 ## 🔗 Quick Access
 
-- 📂 [Case Studies]([https://www.notion.so/Case-Studies-1d9296d3cc1a80c18a4fd0998459e67b?pvs=21](https://github.com/debolinaguha-pm/product/tree/main/case-studies))
+- 📂 [Case Studies](https://github.com/debolinaguha-pm/product/tree/main/case-studies)
 
 ---
 
